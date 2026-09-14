@@ -79,7 +79,7 @@ Abaixo estão listadas as medidas DAX criadas no modelo, juntamente com a fundam
 ### Página 1: Visão Geral de Performance e Custos
 *Objetivo: Apresentar os indicadores globais de custo e eficiência de produção para tomadores de decisão.*
 
-![Visão Geral de Performance e Custos](pagina1.jpg)
+![Visão Geral de Performance e Custos](pagina1.png)
 
 #### Componentes Visuais:
 1. **Filtros Globais:** Slicers interativos por Mês/Ano e por ID da Máquina.
@@ -101,7 +101,7 @@ Abaixo estão listadas as medidas DAX criadas no modelo, juntamente com a fundam
 ### Página 2: Diagnóstico por Ativo e Confiabilidade
 *Objetivo: Permitir a investigação detalhada do comportamento de cada máquina para ações preventivas ou corretivas focalizadas.*
 
-![Diagnóstico por Ativo e Confiabilidade](pagina2.jpg)
+![Diagnóstico por Ativo e Confiabilidade](pagina2.png)
 
 #### Componentes Visuais:
 1. **Horas Operacionais por Máquina (Colunas Empilhadas):**
@@ -148,7 +148,7 @@ A análise dos dados do período de janeiro a abril de 2021 sobre os 10 equipame
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SilvanioSG/PCM-PowerBI.git
+   git clone https://github.com/SilvanioSG/Dashboard-Executivo-de-Gestao-da-Manutencao-Industrial-PCM
    ```
 2. **Abrir o projeto no Power BI Desktop:**
    * Baixe e instale o [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
